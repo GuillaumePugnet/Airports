@@ -6796,7 +6796,7 @@ QUO,Africa/Lagos,Akwa Ibom Airport,QUO,NG,POINT (8.097530913373072 4.8756716),17
 QUP,America/Godthab,Heliport,QUP,GL,POINT (-52 70.05),291,,,,,
 QUY,Europe/London,Wyton RAF Station,QUY,GB,POINT (-0.107832998037 52.3572006226),108,,EGUY,Hemingford Grey,Cambridgeshire,England
 QWG,America/New_York,Wilgrove Air Park,CLT,US,POINT (-80.85 35.216667),741,https://web.archive.org/web/20200910142246/http://www.wilgroveairport.net/,,Charlotte,Mecklenburg County,North Carolina
-QXD,America/Fortaleza,Quixadá Regional Airport,QXD,BR,POINT (-38.987778 -4.978889),738,SNQX,Quixadá,,
+QXD,America/Fortaleza,Quixadá Regional Airport,QXD,BR,POINT (-38.987778 -4.978889),738,,SNQX,Quixadá,,
 QYW,Europe/Paris,Vieux Port,CEQ,FR,POINT (7.044444 43.53889),0,,,Cannes,Departement des Alpes-Maritimes,Provence-Alpes-Cote d'Azur
 QZD,Europe/Budapest,Szeged,QZD,HU,POINT (20.091849841099055 46.245457650000006),0,,,Szeged,,Csongrad
 RAA,Pacific/Port_Moresby,Rakanda,RAA,PG,POINT (152.16667 -4.5),38,,,,,
